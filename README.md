@@ -1,5 +1,5 @@
 # Calculator App
-Using HTML, CSS , and JavaScript 
+Using HTML, CSS , and JavaScript with cool Dark Mode Effect ! 
 
 ![2022-12-08 02_21_31-Screenshot 2022-12-08 014556 jpg ‎- Photos](https://user-images.githubusercontent.com/85137150/206384453-582465b4-a6ae-49da-b61e-0431ac1ba467.png)
 
