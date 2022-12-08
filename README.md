@@ -7,8 +7,8 @@ Using HTML, CSS , and JavaScript with cool Dark Mode Effect !
 
 
 Learning Javascript. Build Credit to @zxcodes.  
-I just changed little bit ;)
-Planning to deploy it on Azure or AWS in different ways as my mini Cloud Infra Projects. 
+I just changed little bit ;)  
+Planning to deploy it on Azure or AWS in different ways as my mini Cloud Infra Projects.   
 
 Free to use any part of the files from this repo. Happy Learning ! 
 
